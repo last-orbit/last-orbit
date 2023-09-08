@@ -8,7 +8,7 @@
 
 Self-taught primarily front-end developer. Started really coding in the spring of 2021(April). Main focus is HTML,CSS, and JS
 ## 🛠 Skills
-Javascript, HTML5, CSS3, Adobe XD, GitHub,
+Javascript, HTML5, CSS3, Adobe XD, GitHub, VsCode
 
 
 
