@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=last-orbit&show_icons=true&locale=en" alt="last-orbit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=last-orbit&" alt="last-orbit" /></p>
+
+[![last-orbit's GitHub | Languages Over Time](https://stats.quine.sh/last-orbit/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=last-orbit)
