@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Self-taught developer from USA but living in France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=last-orbit&label=Profile%20views&color=0e75b6&style=flat" alt="last-orbit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-orbit" alt="last-orbit" /></a> </p>
 
@@ -25,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=last-orbit&show_icons=true&locale=en" alt="last-orbit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=last-orbit&" alt="last-orbit" /></p>
+
 
 
