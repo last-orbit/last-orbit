@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-orbit" alt="last-orbit" /></a> </p>
 
-- 🌱 I’m currently learning **Finished Kevin Powell's Course (Conquering Responsive Layouts) and taking a week off to asset the next course to pursue**
+- 🌱 I’m currently enrolled at Ironhack for Web Development. I finish late December 2024 
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-eight-woad.vercel.app/](https://portfolio-website-eight-woad.vercel.app/)
 
