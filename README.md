@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-orbit" alt="last-orbit" /></a> </p>
 
-- 🌱 I’m currently enrolled at Ironhack for Web Development. I finish late December 2024 
+- 🌱 Finished the Ironhack Bootcamp and now looking for a job to complete my transition into Web Development as a career. 
 
 - 👨‍💻 All of my projects are available at [https://dev-ro-portfolio.vercel.app/](https://dev-ro-portfolio.vercel.app/)
 
