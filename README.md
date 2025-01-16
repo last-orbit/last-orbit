@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=last-orbit&show_icons=true&locale=en" alt="last-orbit" /></p>
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=USERNAME" />
+      <img src="https://github.r2v.ch/codewars?user=Lastorbit" />
     </a>
 </p>
 
