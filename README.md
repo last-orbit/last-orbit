@@ -23,8 +23,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=last-orbit&show_icons=true&locale=en&layout=compact" alt="last-orbit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=last-orbit&show_icons=true&locale=en" alt="last-orbit" /></p>
-![Codewars](https://github.r2v.ch/codewars?user=Lastorbit)
-
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=USERNAME" />
+    </a>
+</p>
 
 
 
