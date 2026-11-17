@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Self-taught developer from USA and now living in France</h3>
+<h3 align="center">Self-taught Full-Stack developer from the US who now lives in France</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=last-orbit" alt="last-orbit" /></a> </p>
 
-- 🌱 Finished the Ironhack Bootcamp and now looking for a job to complete my transition into Web Development as a career. 
+- 🌱 Learning Python by completing projects in Pyscript and in the future, flask & django. Seeking work in industries that have an environmental, cultural, social impact.  
 
-- 👨‍💻 All of my projects are available at [https://dev-ro-portfolio.vercel.app/](https://dev-ro-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dev-ro-portfolio.vercel.app/)
 
-- 📫 How to reach me **robert.nicholas.ortiz@gmail.com**
+- 📫 Where to reach me **robert.nicholas.ortiz@gmail.com**
 
 - ⚡ Fun fact **Use to work in Theatre and even got my master in Technical Direction.**
 
